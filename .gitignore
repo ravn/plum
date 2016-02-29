@@ -22,3 +22,6 @@ noid-minter-state
 /fits
 /coverage
 /staged_files
+/.idea
+*.iml
+
